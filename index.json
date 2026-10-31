@@ -1,0 +1,23 @@
+{
+  "name": "Len187s Blueprint Workshop",
+  "blueprints": [
+    {
+      "id": "gumdrop-v2",
+      "name": "Gumdrop v2",
+      "author": "Brueplint",
+      "category": "Häuser",
+      "version": "1",
+      "description": "Gumdrop-Haus, Version 2.",
+      "file": "Brueplint_Gumdropv2.blueprint"
+    },
+    {
+      "id": "gumdrop-endgame",
+      "name": "Gumdrop Endgame",
+      "author": "Brueplint",
+      "category": "Häuser",
+      "version": "1",
+      "description": "Die große Endgame-Version des Gumdrop-Hauses.",
+      "file": "Brueplint_gumdropendgame.blueprint"
+    }
+  ]
+}
